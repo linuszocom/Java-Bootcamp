@@ -6,7 +6,7 @@ Upplägget bygger på **korta videos** och **praktiska övningar** istället fö
 
 ---
 
-## 🗺️ Så här fungerar kursen
+## 🗺️ Så här fungerar bootcamp
 
 Materialet är uppdelat i 5 träningskapitel och ett slutprojekt. Du ska göra dem i ordning, uppifrån och ner.
 
