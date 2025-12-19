@@ -1,4 +1,4 @@
-# ☕ Java Bootcamp - Din väg till Godkänt
+# ☕ Java Bootcamp
 
 Välkommen! Denna studieplan är framtagen för att du effektivt ska lära dig grunderna i Java och Objektorientering på egen hand.
 
